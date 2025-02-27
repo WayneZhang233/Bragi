@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project is part of the 2023 "Software Engineering" course at Tongji University's Department of Computer Science. I was responsible for backend development, utilizing a tech stack that includes **Spring Boot**, **Hibernate**, and **SQLite**.
+This project is part of the 2023 "Software Engineering" course at Tongji University's Department of Computer Science.
+
+**Tech Stack: Spring Boot + Vue + SQLite**
 
 **Bragi** is a cloud-based note management platform designed to deliver a **feature-rich, user-friendly, flexible, and secure** experience, enabling users to efficiently record, organize, and manage their notes.
 
